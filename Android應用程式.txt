@@ -1,4 +1,4 @@
 android.app.Activity
-android.app.Service
-android.content.BroadcastReceiver
+android.app.Service                   # 背景排程
+android.content.BroadcastReceiver     # 接收廣播接收器
 android.appwidget.AppWidgetProvider
