@@ -1,0 +1,14 @@
+\res\values\strings.xml
+
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="sean">Hello Sean!</string>
+</resources>
+
+
+// xml 引用
+android:text="@string/sean"
+
+
+// kotlin 引用
+val string: String = getString(R.string.sean)
