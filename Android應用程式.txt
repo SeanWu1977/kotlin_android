@@ -1,0 +1,4 @@
+android.app.Activity
+android.app.Service
+android.content.BroadcastReceiver
+android.appwidget.AppWidgetProvider
